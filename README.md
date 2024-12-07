@@ -1,6 +1,6 @@
 ### Hi there 
 👋👋👋👋👋👋
-
+<pre> ``` 
  ___          ________  _____ ______                                           
 |\  \        |\   __  \|\   _ \  _   \                                         
 \ \  \       \ \  \|\  \ \  \\\__\ \  \                                        
@@ -30,7 +30,8 @@
    |\_________\|_______|\|__|\|__\|________|\|__|\|__|\___/ /        \|_______|
    \|_________|                                      \|___|/                   
                                                                                
-                                                                               
+```
+</pre>
 
 <!--
 **neerajsurjaye/neerajsurjaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
